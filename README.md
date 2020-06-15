@@ -1,6 +1,4 @@
-# assignment---user-search-for-repositories-in-GitHub
-
-
+# assignment
 Assignment :
 
 *  Write a small program/app that let's user search for repositories in GitHub by language or topic using GitHub’s well documented APIs.      You can use either v3 or v4 API. Your search results should be paginated. 
