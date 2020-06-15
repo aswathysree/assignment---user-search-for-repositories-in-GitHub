@@ -11,14 +11,15 @@ Instalation :
 1. install node.js 
 2. install git
 3. install visual studio
-4. https://developer.github.com/v3/ to get the github API, https://api.github.com/search/repositories?q= hello
+4. install nuxt, vuex,axios
+5. https://developer.github.com/v3/ to get the github API, https://api.github.com/search/repositories?q= hello
    nuxt axios need to use for the API calling.
-5. install nuxt, vuex
+
 
 page details:
 
-1. welcome page you can see result results
-2. Dashboard you can see history.(we are currently just saving in the page its self only)
+1. welcome page you can search and see the results
+2. Dashboard page you can see history.(we are currently just saving in the page its self only)
 
    
    
